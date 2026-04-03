@@ -8,4 +8,4 @@ __all__ = ['Bit']
 
 # Optional: Add a version for your npm-style library
 __version__ = "1.0.0"
-__author__ = "deltaZer0"
+__author__ = "HorizonZer0"
