@@ -1,6 +1,6 @@
 <?php
 
-namespace deltaZer0\Bit;
+namespace horizonZer0\Bit;
 
 class Converter 
 {
