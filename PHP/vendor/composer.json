@@ -1,0 +1,10 @@
+{
+    "name": "deltaZer0/bitForPHP",
+    "description": "Text to binary converter",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "deltaZer0\\Bit\\": "src/"
+        }
+    }
+}
